@@ -79,7 +79,6 @@ This project provides a simplified yet realistic framework for quantifying marke
 ---
 
 # 🔗 Repository Links
-1. 📘 Notebook – Portfolio_VaR_and_CVaR_Analysis_using_Python.ipynb
-2. 📊 Visuals - 
+1. 📘 [Notebook – Portfolio_VaR_and_CVaR_Analysis_using_Python.ipynb](https://github.com/PriyasiShah1211/Portfolio-VaR-and-CVaR-Analysis-using-Python/blob/main/Portfolio_VaR_and_CVaR_Analysis_using_Python.ipynb)
 
 
